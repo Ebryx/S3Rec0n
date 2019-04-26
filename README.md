@@ -105,7 +105,7 @@ Features/Functions:
 
 
 ### Note 
-<pre><code>Do not change the position of any module as given under the Usage, this may cause an failure in the working of the script...
+<pre><code> Feel free to make pull requests!
 P.S ~ Dont Change The Colors. They're Butiphul like this.
 	~ An0n 3xPloiTeR
 </code></pre>
