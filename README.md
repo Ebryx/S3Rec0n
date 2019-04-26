@@ -6,9 +6,6 @@
 
 **A colorful cross-platform python utility to test misconfigurations of buckets both through authenticated and unauthenticated checks!**
 
-<img src="https://i.imgur.com/7r96xmg.png" />
-
-### S3Rec0n's Output
 <img src="https://i.imgur.com/ooPyx6z.gif">
 
 ### Requirements
