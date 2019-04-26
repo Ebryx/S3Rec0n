@@ -8,8 +8,8 @@
 
 <img src="https://i.imgur.com/7r96xmg.png" />
 
-### Output
-<a href="https://github.com/Ebryx/S3Rec0n/blob/master/output.txt" target="_blank">S3Rec0n's Full Output</a>
+### S3Rec0n's Output
+<img src="https://i.imgur.com/ooPyx6z.gif">
 
 ### Requirements
 
@@ -58,7 +58,6 @@ You can download the latest version of S3Rec0n by cloning the GitHub repository.
 ***Listing Bucket without specifying any flag both auth/unauth S3 API Call (by default it gets set to unauthorized)***
 
     python s3rec0n.py --list-bucket --bucket=myTestBucket
-<img src="https://i.imgur.com/Vl823MN.gif">
 
 ***Fetching ACL of the Bucket without S3 API Authorization (anonymously)***
 
@@ -107,12 +106,11 @@ Features/Functions:
 
 ### Screenshots
 
-<img src="https://i.imgur.com/RSrESbB.png" />
-<img src="https://i.imgur.com/sBZ0n5i.png" />
-<img src="https://i.imgur.com/a6DsVOP.png" />
-<img src="https://i.imgur.com/noKnHfJ.png" />
-<img src="https://i.imgur.com/3iIdnto.png" />
-<img src="https://i.imgur.com/cjS9SOV.png" />
+<img src="https://i.imgur.com/Vl823MN.gif">
+<img src="https://i.imgur.com/nemCSxO.gif">
+<img src="https://i.imgur.com/X7GCe8y.gif">
+<img src="https://i.imgur.com/Vl823MN.gif">
+
 
 ### Note 
 <pre><code>Do not change the position of any module as given under the Usage, this may cause an failure in the working of the script...
