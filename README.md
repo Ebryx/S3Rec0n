@@ -76,13 +76,9 @@ You can download the latest version of S3Rec0n by cloning the GitHub repository.
 
     python s3rec0n.py --unauthorized --fetch-obj-acl --bucket=myTestBucket
 
-### Advanced Usage
+### Description of Checks
 <pre><code>
-Author: Syed Umar Arfeen
-
 Usage: python s3rec0n.py
-A colorful cross-platform python utility to test misconfigurations of buckets both through authenticated and unauthenticated checks!
-
 Features/Functions:
 
  1). Authenticated Checks (through access keys)
@@ -100,7 +96,7 @@ Features/Functions:
 	python s3rec0n.py
 </code></pre>
 
-### Screenshots
+### Some GIFS
 
 <img src="https://i.imgur.com/Vl823MN.gif">
 <img src="https://i.imgur.com/nemCSxO.gif">
