@@ -10,7 +10,7 @@
 
 ### Requirements
 
-- Python (3.7.*)
+- Python `(3.7.*)`
 - Python `pip3`
 - Python module `boto3`
 - Python module `botocore`
