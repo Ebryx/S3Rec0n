@@ -77,7 +77,6 @@ You can download the latest version of S3Rec0n by cloning the GitHub repository.
     python s3rec0n.py --unauthorized --fetch-obj-acl --bucket=myTestBucket
 
 ### Advanced Usage
-
 <pre><code>
 Author: Syed Umar Arfeen
 
