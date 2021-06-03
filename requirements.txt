@@ -1,7 +1,7 @@
 boto3
 botocore
+colorama
 jmespath
 Pygments
 python-dateutil
 requests
-urllib3
