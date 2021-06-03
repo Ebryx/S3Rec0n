@@ -3,5 +3,4 @@ botocore
 colorama
 jmespath
 Pygments
-python-dateutil
 requests
